@@ -1,0 +1,2 @@
+2025-06-27 13:19:33,130 - WARNING - RELIANCE.NS: Missing or invalid fields: ['price_to_earnings_ratio_ttm', 'price_to_book_ratio', 'debt_to_equity_ratio', 'return_on_equity_ttm', 'revenue_growth_rate_yoy', 'earnings_per_share_ttm', 'free_cash_flow_per_share_ttm']
+2025-06-27 13:24:54,363 - WARNING - RELIANCE: NSE fetch error: Expecting value: line 1 column 1 (char 0)
