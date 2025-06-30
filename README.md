@@ -29,10 +29,6 @@ MarketVision is a comprehensive, AI-driven platform for predicting stock market 
 
 MarketVision operates on a sophisticated pipeline that transforms raw data into actionable predictions. The entire process, from data collection to visualization, is automated and modular.
 
-<p align="center">
-  [The Mermaid diagram you generated will be displayed here in GitHub]
-</p>
-
 1.  **Data Collection**: The system fetches historical price data, global indices, and company fundamentals from `yfinance`, while news articles are scraped from Google News RSS feeds.
 2.  **Feature Engineering**:
     -   **Technical Indicators**: Over 40 indicators like RSI, MACD, and Bollinger Bands are computed using `pandas-ta`.
